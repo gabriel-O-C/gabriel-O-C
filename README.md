@@ -1,4 +1,5 @@
 ### Hello!!!! I'm Gabriel de Oliveira Chaves
+##
 
 <div style="display: inline_block">
   <a href="https://github.com/gabriel-O-C">
@@ -15,7 +16,7 @@
   <img align="center" alt="gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-###
+##
   
  
 <div> 
