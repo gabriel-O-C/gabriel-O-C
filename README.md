@@ -1,10 +1,8 @@
 ### Hello!!!! I'm Gabriel de Oliveira Chaves
 
-<div style="display: flex">
+<div style="display: inline_block">
   <a href="https://github.com/gabriel-O-C">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-O-C&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </div>
-  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-O-C&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
